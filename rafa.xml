@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<retorno>
+    <erros>
+        <erro>
+            <cod>2</cod>
+            <msg>API Key nao informada - Parametro apikey nao foi encontrado</msg>
+        </erro>
+    </erros>
+</retorno>
